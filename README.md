@@ -8,12 +8,19 @@ File Password EpicRat-BySalhi
 File Content :
 
 AndroRAT .zip
+
 BatchNƩT + Source .rar
+
 Beast 2.06.rar
+
 Bifrost 1.2.1d.rar
+
 Blackshades 5.4 Private.rar
+
 Blackshades Public Edition.rar
+
 Blackshades v 5.4 Private.rar
+
 Blizzard 1.2.rar
 BlueBanana.rar
 bRAT + Source.rar
