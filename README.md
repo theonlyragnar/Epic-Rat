@@ -2,10 +2,9 @@
 Epic-Rat V1 : A Libray Of The Strongest RAT Softwares + Source Codes
 
 
-File Size :  275 Mg
+File Size 275 Mg
+File Password EpicRat-BySalhi
 
-File Password : EpicRat-BySalhi
--------------------------------:
 File Content :
 
 AndroRAT .zip
